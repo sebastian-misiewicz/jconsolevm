@@ -4,5 +4,5 @@
   <artifactId>jconsolevm</artifactId>
   <version>0.0.1-SNAPSHOT</version>
   <name>JConsoleVM</name>
-  <description>A tool to monitor Java Virtual Machine via console (no-graphic)</description>
+  <description>A tool to monitor Java Virtual Machine via console (non-graphic)</description>
 </project>
