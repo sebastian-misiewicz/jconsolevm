@@ -1,0 +1,19 @@
+{
+  "name": "jconsolevm",
+  "version": "0.0.0",
+  "homepage": "https://github.com/sebastian-misiewicz/jconsolevm",
+  "authors": [
+    "Sebastian Misiewicz <sebastian@sebastianmisiewicz.info>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "~1.5.6"
+  }
+}
